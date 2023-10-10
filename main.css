@@ -81,7 +81,7 @@ section p {
     height: 24px;
 }
 
-social-links li {
+.social-links li {
     display: inline;
     margin-right: 8px;
 }
@@ -94,7 +94,7 @@ social-links li {
     display: block;
 }
 
-#contact-methods {
+#contact .container .contact-methods {
     display: flex;
     justify-content: space-between;
 }
